@@ -1,0 +1,8 @@
+{
+  "files": [
+    "test.ts",
+    "index.d.ts",
+    "typings/main.d.ts"
+  ],
+  "compileOnSave": false
+}
